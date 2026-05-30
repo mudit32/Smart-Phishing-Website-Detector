@@ -1,0 +1,7 @@
+requests
+streamlit
+streamlit-lottie
+pillow
+selenium
+python-whois
+pyOpenSSL
